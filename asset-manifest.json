@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.js": "/undermilli_react/static/js/main.f69de42f.js",
+    "main.js": "/undermilli_react/static/js/main.7a8e8398.js",
+    "static/media/background.png": "/undermilli_react/static/media/background.8c8b39e42e53337be143.png",
+    "static/media/logo.svg": "/undermilli_react/static/media/logo.7dec842d35115f289d1e36c0ce3df64b.svg",
     "index.html": "/undermilli_react/index.html",
-    "main.f69de42f.js.map": "/undermilli_react/static/js/main.f69de42f.js.map"
+    "main.7a8e8398.js.map": "/undermilli_react/static/js/main.7a8e8398.js.map"
   },
   "entrypoints": [
-    "static/js/main.f69de42f.js"
+    "static/js/main.7a8e8398.js"
   ]
 }
