@@ -1,13 +1,9 @@
-# Undermilli
+## HTML,CSS 코드 테스트
 
 ## 배포 주소
 https://fe012.github.io/undermilli_react
 
-## HTML,CSS 코드 테스트
-
-### 설치 및 실행 방법
-
-- 설치 및 실행
+## 설치 및 실행 방법
 
 ```
 npm install
