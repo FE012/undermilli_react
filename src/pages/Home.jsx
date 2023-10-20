@@ -1,8 +1,9 @@
 import styled from "styled-components";
 import Header from "../Components/Header";
+import backImg from "../images/background.png";
 
 const Wrapper = styled.div`
-  background-image: url("http://test.undermilli.com/static/background.png");
+  background-image: url(${backImg});
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;

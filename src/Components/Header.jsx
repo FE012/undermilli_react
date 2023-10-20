@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import logo from "../images/logo.svg";
 
 const Nav = styled.nav`
   display: flex;
@@ -47,7 +48,7 @@ function Header() {
   return (
     <Nav>
       <LeftSection>
-        <img src={"http://test.undermilli.com/static/logo.svg"} alt="logo" />
+        <img src={logo} alt="logo" />
       </LeftSection>
       <CenterSection>
         <Items>
